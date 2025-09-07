@@ -103,9 +103,9 @@ export default function Home() {
           >
             <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-4 drop-shadow-lg">ETH Balance Checker</h1>
             <p className="text-lg text-gray-700 mb-6">Check your Ethereum wallet balance instantly and securely.</p>
-            <Button className="px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold rounded-full shadow-lg hover:scale-105 transition-transform duration-200">
+            {/* <Button className="px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold rounded-full shadow-lg hover:scale-105 transition-transform duration-200">
               Check ETH Balance
-            </Button>
+            </Button> */}
           </motion.div>
 
           <motion.div
